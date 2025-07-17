@@ -1,7 +1,0 @@
-C:\Users\Administrator\source\repos\CSSO_x86\CSSO_x86\entry.cpp;C:\Users\Administrator\source\repos\CSSO_x86\build\inter\entry.obj
-C:\Users\Administrator\source\repos\CSSO_x86\CSSO_x86\MinHook\Minhook\buffer.c;C:\Users\Administrator\source\repos\CSSO_x86\build\inter\buffer.obj
-C:\Users\Administrator\source\repos\CSSO_x86\CSSO_x86\MinHook\Minhook\hde\hde32.c;C:\Users\Administrator\source\repos\CSSO_x86\build\inter\hde32.obj
-C:\Users\Administrator\source\repos\CSSO_x86\CSSO_x86\MinHook\Minhook\hde\hde64.c;C:\Users\Administrator\source\repos\CSSO_x86\build\inter\hde64.obj
-C:\Users\Administrator\source\repos\CSSO_x86\CSSO_x86\MinHook\Minhook\hook.c;C:\Users\Administrator\source\repos\CSSO_x86\build\inter\hook.obj
-C:\Users\Administrator\source\repos\CSSO_x86\CSSO_x86\MinHook\Minhook\trampoline.c;C:\Users\Administrator\source\repos\CSSO_x86\build\inter\trampoline.obj
-C:\Users\Administrator\source\repos\CSSO_x86\CSSO_x86\Valve\ConVar.cpp;C:\Users\Administrator\source\repos\CSSO_x86\build\inter\ConVar.obj
